@@ -2,7 +2,7 @@
 
 Aika is a specialized Discord assistant designed as a "tsundere older sister" persona. She serves a dual purpose: acting as an intelligent RPG game master/assistant and a high-performance music player. 
 
-Inspired by **Neo-Noir** aesthetics, Aika is sharp, challenging, and occasionally bossy, but becomes a supportive pillar for her "younger siblings" during difficult campaign moments.
+Aika is sharp, challenging, and occasionally bossy, but becomes a supportive pillar for her "younger siblings" during difficult campaign moments.
 
 ---
 
