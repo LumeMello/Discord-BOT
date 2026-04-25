@@ -42,7 +42,9 @@ Inspired by **Neo-Noir** aesthetics, Aika is sharp, challenging, and occasionall
 2.  **Install Dependencies:**
     ```bash
     pip install discord.py groq yt-dlp python-dotenv
+    git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
     ```
+    Extract the FFmpeg and copy the FFmpeg.exe in bin/FFmpeg directory
 
 3.  **Configure Environment:**
     Create a `.env` file in the root directory:
