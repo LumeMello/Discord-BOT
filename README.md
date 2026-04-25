@@ -35,7 +35,7 @@ Inspired by **Neo-Noir** aesthetics, Aika is sharp, challenging, and occasionall
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/aika-bot.git](https://github.com/your-username/aika-bot.git)
+    git clone https://github.com/LumeMello/Discord-BOT.git
     cd aika-bot
     ```
 
