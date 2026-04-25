@@ -1,4 +1,4 @@
-# 🌸 Aika-chan: The Neo-Noir RPG & Music Bot
+# 🌸 Aika-chan: The RPG & Music Bot
 
 Aika is a specialized Discord assistant designed as a "tsundere older sister" persona. She serves a dual purpose: acting as an intelligent RPG game master/assistant and a high-performance music player. 
 
